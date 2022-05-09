@@ -1,0 +1,25 @@
+name: daad_flutter_utils
+description: Flutter utils
+version: 1.1.0
+homepage: https://github.com/g123k/flutter_daad_utils
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  daad_dart_utils: ^1.0.3
+
+  connectivity: ^3.0.6
+  package_info_plus: ^1.0.4
+
+  flutter_bloc: ^8.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
